@@ -1,0 +1,3 @@
+﻿  ChatClient.cpp
+C:\Users\Serdar Umut\source\repos\ChatClient\ChatClient\ChatClient.cpp(46,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ChatClient.vcxproj -> C:\Users\Serdar Umut\source\repos\ChatClient\x64\Debug\ChatClient.exe
